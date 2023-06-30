@@ -1,0 +1,36 @@
+.shadowbox {
+    border-radius: 25px;
+    width: 600px;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #7fc9a6, #2f9264 40%, #0e7238);
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+  }
+
+body {
+    text-align: center;
+    
+    background-image: url("poker2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    
+}
+div {
+    margin: auto;
+}
+button {
+    width: 200px;
+    font-family: Helvetica;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+button:hover {
+    background-color: blue;
+    color: white;
+  }
